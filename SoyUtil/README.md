@@ -14,6 +14,7 @@
 ### v2.1
 
 修复bug：dateFormat()无返回值。
+
 新增方法：getCurrentDate()	获取当前系统时间，格式：YYYY-M-D HH:mm
 
 ### v2.0 
@@ -21,6 +22,7 @@
 **不与上一个版本兼容。**
 
 放到命名空间SoyUtil里面。
+
 新增方法：inRange(min,num,max)	设置一个数，如果数字超过边界则返回边界值。
 
 ### v1.3

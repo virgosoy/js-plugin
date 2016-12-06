@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/**
+ * 箭头样式
+ * @author zhengsiyou
+ * @version 0.1
+ */
+ 
+.sy-c-arrow{border:8px solid #333;}
+.sy-c-arrow-up{
+	border-top-color:transparent !important;
+	border-right-color:transparent !important;
+	border-left-color:transparent !important;
+}
+.sy-c-arrow-right{
+	border-top-color:transparent !important;
+	border-right-color:transparent !important;
+	border-bottom-color:transparent !important;
+}
+.sy-c-arrow-down{
+	border-right-color:transparent !important;
+	border-bottom-color:transparent !important;
+	border-left-color:transparent !important;
+}
+.sy-c-arrow-left{
+	border-top-color:transparent !important;
+	border-bottom-color:transparent !important;
+	border-left-color:transparent !important;
+}
+.sy-c-arrow-up-left{
+	border-right-color:transparent !important;
+	border-bottom-color:transparent !important;
+}
+.sy-c-arrow-up-right{
+	border-bottom-color:transparent !important;
+	border-left-color:transparent !important;
+}
+.sy-c-arrow-down-left{
+	border-top-color:transparent !important;
+	border-right-color:transparent !important;
+}
+.sy-c-arrow-down-right{
+	border-top-color:transparent !important;
+	border-left-color:transparent !important;
+}
