@@ -47,5 +47,5 @@
 简单使用初始化方法：
 
 ```JavaScript
-$().soyTip();
+$(xxx).soyTip();
 ```
