@@ -1,0 +1,13 @@
+/**
+ * 分页插件(jQuery)
+ * author:Soy
+ * date:2016-5-18 15:19:28
+ * version:1.0
+ */
+.sy-pagebar{padding:0;font-size:14px;font-family:"微软雅黑";color:#666;display:inline-block;}
+.sy-pagebar>*{display:block;border:1px solid #ccc;padding:2px 7px;float:left;margin-right:2px;}
+.sy-pagebar>*:last-child{margin-right:0;}
+.sy-pagebar a{color:#666;text-decoration:none;}
+.sy-pagebar .sy-page.sy-current{background:#e5edf2;}
+.sy-pagebar .sy-jump{display:inline;}
+.sy-pagebar .sy-jump .sy-input{width:30px;background:#fcfcfc;border:0;outline:0;font-size:14px;font-family:"微软雅黑";color:#666;}
