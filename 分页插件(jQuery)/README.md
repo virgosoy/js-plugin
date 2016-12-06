@@ -12,7 +12,7 @@
 * 可异步加载调试
 * 增加功能：无需重新初始化，可设置数据数目或当前页。若设置了当前页则会触发回调函数。
 
-```
+```javascript
 	/* 参数列表将进行改动：
 	 * 1	opts		map		配置项映射。会强制重新初始化。
 	 * 
@@ -37,19 +37,19 @@
 #### 简单使用方法
 
 引入soy_page.css、soy_page.js
-```
+```html
 	<link rel="stylesheet" href="soy_page.css" />
 	<script src="soy_page.js"></script>
 ```
 
 使用：
 定义一个div，如：
-```
+```html
 <div class="page"></div>
 ```
 
 然后js脚本：
-```
+```javascript
 //参数：1为数据个数，2为设置
 $(".page").soyPage(length,{
 	pageSize:10, //单页显示大小
