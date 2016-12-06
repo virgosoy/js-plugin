@@ -1,0 +1,13 @@
+@charset "utf-8";
+/**
+ * tip(提示组件)
+ * @author zhengsiyou
+ * @version 0.2-0.4
+ */
+.sy-tip{height:0;}
+.sy-tip .sy-tip-box{position:absolute;background:#333;border-radius:5px;color:#fff;z-index:100;}
+.sy-tip .sy-tip-box .sy-tip-content{padding:5px;}
+.sy-tip .sy-tip-box .sy-tip-arrow{position:absolute	;}
+.sy-tip .sy-tip-box .sy-tip-content img{display:block;}
+
+
