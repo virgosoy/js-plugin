@@ -12,6 +12,8 @@
 .sy-c-arrow-*
 
 其中*有：
+
+```
 up		.sy-c-arrow-up
 down		.sy-c-arrow-down
 left		.sy-c-arrow-left
@@ -20,7 +22,7 @@ up-left		.sy-c-arrow-up-left
 up-right	.sy-c-arrow-up-right
 down-left	.sy-c-arrow-down-left
 down-right	.sy-c-arrow-down-right
-
+```
 ## 版本更新
 
 ### v0.1
